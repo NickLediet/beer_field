@@ -1,0 +1,19 @@
+{
+    "name": "drupal/beer_field",
+    "description": "Provides a simple field for embdedding beer in your content integrated with [Untapped](https://untappd.com/)",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Nicholas Lediet",
+            "homepage": "https://www.drupal.org/u/nlediet",
+            "role": "Maintainer"
+        }
+    ],
+    "homepage": "https://drupal.org/project/beer_field",
+    "support": {
+        "issues": "https://drupal.org/project/issues/beer_field",
+        "source": "https://git.drupalcode.org/project/beer_field"
+    },
+    "require": {}
+}
